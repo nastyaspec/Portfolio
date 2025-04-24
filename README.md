@@ -20,7 +20,7 @@
 
 * Инструменты🛠: Python,Pandas.
 
-Ссылка на проект: <a href="[https://github.com/nastyaspec/Portfolio/blob/main/01.%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.ipynb](https://github.com/nastyaspec/Portfolio/blob/main/02.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2/%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)" target="_blank">📝</a>
+Ссылка на проект: <a href="https://github.com/nastyaspec/Portfolio/blob/main/02.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2/%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank">📝</a>
 
 ## Проект 3. Исследование объявлений о продаже квартир
 
@@ -28,7 +28,7 @@
 
 * Инструменты🛠: Python,Pandas, Matplotlib.
 
-Ссылка на проект: <a href="[https://github.com/nastyaspec/Portfolio/blob/main/01.%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.ipynb](https://github.com/nastyaspec/Portfolio/blob/main/03.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)" target="_blank">📝</a>
+Ссылка на проект: <a href="https://github.com/nastyaspec/Portfolio/blob/main/03.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank">📝</a>
 
 ## Проект 4. Исследование объявлений о продаже квартир
 
@@ -36,7 +36,7 @@
 
 * Инструменты🛠: Python, Pandas, Matplotlib, NumPy, SciPy.
 
-Ссылка на проект: <a href="[https://github.com/nastyaspec/Portfolio/blob/main/04.%20GoFast/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)" target="_blank">📝</a>
+Ссылка на проект: <a href="https://github.com/nastyaspec/Portfolio/blob/main/04.%20GoFast/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank">📝</a>
 
 ## Проект 5. Стримчик
 
@@ -44,5 +44,5 @@
 
 * Инструменты🛠: Python, Pandas, Matplotlib, NumPy.
 
-Ссылка на проект: <a href="[https://github.com/nastyaspec/Portfolio/tree/main/05.%20%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA)" target="_blank">📝</a>
+Ссылка на проект: <a href="https://github.com/nastyaspec/Portfolio/tree/main/05.%20%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA" target="_blank">📝</a>
 
