@@ -5,7 +5,7 @@
 * Продуктовый аналитик,
 * Data Analyst
 # Стек
-* Python,Pandas,Matplotlib,NumPy,SciPy,
+* Python, Pandas, Matplotlib, NumPy, SciPy,
 * описательная статистика,
 * проверка статистических гипотез
 # Задача проекта
