@@ -130,7 +130,7 @@
 
 * Инструменты🛠: Excel.
 
-Ссылка на проект: <a href="">📝</a>
+Ссылка на проект: <a href="https://github.com/nastyaspec/Portfolio/blob/main/16.%20Superstore%20Excel/superstore.ipynb">📝</a>
 
 
 
