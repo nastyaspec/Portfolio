@@ -132,5 +132,14 @@
 
 Ссылка на проект: <a href="https://github.com/nastyaspec/Portfolio/blob/main/16.%20Superstore%20Excel/superstore.ipynb">📝</a>
 
+## Проект 17. Netflix
+
+* Проведено исследовани данных стримингового сервиса Netflix
+
+* Инструменты🛠: Tableau.
+
+Ссылка на проект: <a href="https://github.com/nastyaspec/Portfolio/blob/main/17.%20Netflix/Netflix.ipynb">📝</a>
+
+
 
 
